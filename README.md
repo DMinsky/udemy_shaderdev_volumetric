@@ -12,7 +12,7 @@ Shader code [HolisticSphereLambertLit.shader](HolisticSphereLambertLit.shader)
 
 <img src="images/sphere_lambert_lit.png" width="692" height="440"/>
 
-## Lessons 60, 61, 62. Spherical Fog Desity
+## Lessons 60, 61, 62. Spherical Fog Density
 
 Shader code [HolisticSphereFog.shader](HolisticSphereFog.shader)
 
