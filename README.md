@@ -17,3 +17,9 @@ Shader code [HolisticSphereLambertLit.shader](HolisticSphereLambertLit.shader)
 Shader code [HolisticSphereFog.shader](HolisticSphereFog.shader)
 
 <img src="images/sphere_fog.png" width="932" height="532"/>
+
+## Lessons 63, 64, 65, 66, 67 Noise and clouds
+
+Shader code [HolisticRaymarchClouds.shader](HolisticRaymarchClouds.shader)
+
+<img src="images/raymarch_clouds.png" width="1720" height="801"/>
