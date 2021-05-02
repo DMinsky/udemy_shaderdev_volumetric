@@ -31,3 +31,5 @@ Shader code [HolisticCloudsCameraWithPlasma.shader](HolisticCloudsCameraWithPlas
 C# camera code [Clouds.cs](Clouds.cs)
 
 <img src="images/clouds_on_camera.png" width="956" height="444"/>
+
+There is a lot of "try to guess the number" work involved. You will achieve a different results with different noise textures even if they looks very similar. You also get different result on liner and gamma project setup. So, I just leave this materials as they are. A screenshot was taken from 2020.3.6f1 version of Unity with gamma setup and sRGB option enabled on noise texture import.
