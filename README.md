@@ -23,3 +23,10 @@ Shader code [HolisticSphereFog.shader](HolisticSphereFog.shader)
 Shader code [HolisticRaymarchClouds.shader](HolisticRaymarchClouds.shader)
 
 <img src="images/raymarch_clouds.png" width="1720" height="801"/>
+
+## Lessons 68, 69, 70, 71, 72 Clouds on camera
+
+Shader code [HolisticCloudsCameraWithPlasma.shader](HolisticCloudsCameraWithPlasma.shader)
+C# camera code [Clouds.cs](Clouds.cs)
+
+<img src="images/clouds_on_camera.png" width="956" height="444"/>
